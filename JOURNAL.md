@@ -30,6 +30,6 @@ I fired it this saturday, and had a succesful firing. I cut it in half today and
 
 ![IMG_9903.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzkzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--f22025fbad52227dbbcfb3ac63089f16bbc5640a/IMG_9903.jpg)
 
-I could easily write ~500 words about this motor, and I'll likely elaborate on it in future journal entries. If anyone reading has any questions, my discord is 'onshape', feel free to ask questions.
+I could easily write ~500 words about this motor, and I'll likely elaborate on it in future journal entries. If anyone reading has any questions, my discord is 'onshape', feel free to ask.
   
 
