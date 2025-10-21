@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/20/2025 - Static Fire  
+## 10/20/2025 8 PM - Static Fire  
 
 Before I created this project on Hack Club, I already worked on this project quite a bit. I designed and built a 2" composite case based off of @tsbooska on TRF's Black Stallion design. ![586867-52866e784e52bdfc78d7e0ba7ca3a7c5.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzkyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--43c4a77de9916b7c7cbf338fccdf45cd0e2386ba/586867-52866e784e52bdfc78d7e0ba7ca3a7c5.png)
 
@@ -31,5 +31,40 @@ I fired it this saturday, and had a succesful firing. I cut it in half today and
 ![IMG_9903.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzkzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--f22025fbad52227dbbcfb3ac63089f16bbc5640a/IMG_9903.jpg)
 
 I could easily write ~500 words about this motor, and I'll likely elaborate on it in future journal entries. If anyone reading has any questions, my discord is 'onshape', feel free to ask.
+  
+
+## 10/20/2025 9 PM - Simulations (just the start)  
+
+I started doing some simulations on the rocket. (again before I created the project)
+
+Did some preliminary motor design based off of other PropX motors that have worked. Knowing what I've learned from the previous composite case and what has worked + prior art, I defined my requirements as such:
+
+1. Short burn time
+2. High average thrust 
+3. Reasonable mass flux
+4. Reasonable pressure (~800psi)
+5. Descending mass flux with grains (I actually forgot why to do this, something about erosivity)
+6. Core sizes = drill sizes
+
+I settled on this design:
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--6008161d76f39fbbac79f1dc2af9f0e07958e226/image.png)
+
+The motor is a monolithic conical geometry, with all the ends being inhibited with epoxy or urethane adhesive. (I will figure this out with some more research)
+
+I did a first sim in OpenRocket, which is somewhat accurate at supersonic, but not great.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--abda7cda70dffb2a1ad934c5011d4f69e2e1670a/image.png)
+
+I then did a sim with RASAERO, which resulted in slightly higher Mach but lower Altitude than OpenRocket. 
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk1MywicHVyIjoiYmxvYl9pZCJ9fQ==--4b10ec7ff73bda7d0b7ee9d8a7e5bfdabe2cde76/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--e69436b7ab18d45307a6769f7d449d54109ed37f/image.png)
+
+Additionally, with RASAERO, I determined the CNalpha of the rocket, which is an important (but rather arbitrary) measure of stability. Keeping it >10 has never failed me in past flights
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--49c68881611dcd0871fc3914f335dd2d207edd28/image.png)
+
+In these preliminary sims, I have a vehicle mass fraction of 55%, and with some spicier motor configs, I get it to 67%. 
+
+
   
 
