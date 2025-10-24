@@ -68,3 +68,51 @@ In these preliminary sims, I have a vehicle mass fraction of 55%, and with some 
 
   
 
+## 10/23/2025 - Did first pass CAD  
+
+I spent a pretty long time doing the first pass of the CAD as well as updating sims. 
+
+The first change I made was creating fins with more of a 1:1 aspect ratio (more sounding rocket like, see MORABA rockets & Black Brant), in theory better for high mach flight and stability in general (hoping for a perfectly straight boost). It's worse for performance, as more fin sweep is theoretically better in sims, but because of aerodynamic stuff I honestly don't understand, a fin like this should be more effective at higher mach.   
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--d3e36184cd2ca58e1d54b8a794278f0dfcf728c4/image.png)
+
+After these changes, I actually cadded the rocket finally. I did it in pretty much one sitting, I was bored.
+
+## Rocket Info & Stuff idk
+![00 - Shadow on the Sun - Main.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--51e9645c18c79c79af009256e0582f07a7f050f2/00%20-%20Shadow%20on%20the%20Sun%20-%20Main.png)
+![00 - Shadow on the Sun - Main(1).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAyNywicHVyIjoiYmxvYl9pZCJ9fQ==--832cef472e53d552c833972968f3090bfb2da73d/00%20-%20Shadow%20on%20the%20Sun%20-%20Main(1).png)
+
+
+### Motor
+
+![03 - Casing(13).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--da01d5a83882db929ac5bfc8c81142ce90f6661b/03%20-%20Casing(13).png)
+
+The motor is primarily out of carbon fiber. There will be 3 layers of 45/45 Soller sleeve, as well as one layer of 0 90 fabric roll wrapped around the tube, in order to better resist bending loads, which have killed similar flights in the end. It will be laid up on the liner itself with a layer of release, and I will bond the liner in afterwards (much easier to get correct case dims this way). The nozzle is potted in with InfinityBond EP420, this time using a syringe to inject the epoxy as I struggled with that on the previous motor. The forward closure (metal forward part of the motor, w/ two O rings) has an injected joint/bond (I forgot the proper term). My bond prep will be the same as usual, acetone - > IPA - > sand at 150 - > IPA again -> water break test.
+
+The motor geometry is the same, just was slightly eviler to become more manufacturable. There are 4" motors with a smaller nozzle than this motor. 
+
+### Nosecone
+![01 - Nosecone.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--76cd9066fba1058ae783c5d7d8cad7f76cd804b7/01%20-%20Nosecone.png)
+
+The nosecone is kinda dead simple, just a lot of layers (6), and a compression mold. The mold will use Partall mold release wax on the female part, and a silicone mold release layer (condom, just trust me bro) on the male part, which I have had used before for similar nosecones in the past. 
+
+The ablative will be the trowelable ablative mentioned earlier, just at a different mix ratio than in the patent in order to make it more workable. 
+
+### Avionics Bay
+
+![02 - Avionics Bay(2).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--c70e13d23b16250665c6f8e0264c4ecdf81adc7e/02%20-%20Avionics%20Bay(2).png)
+
+The avionics bay has a small frustrum where the G10 plate mounts to in order to have a nice taper interface for the nosecone tip, so that the nosecone tip does not flex at all. (very important, fast rocket + slop = folded fast rocket) 
+
+I'm mounting a Blue Raven and Featherweight GPS tracker and two batteries on the G10 plate. When the avionics bay is finalized, I will create some wiring diagrams.
+
+### Fins
+
+![04 - Fins.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--db79110415bb727f8e2b9651e02832174760ac5d/04%20-%20Fins.png)
+
+The fins are 4mm carbon fiber with XX phenolic leading edges. They'll be beveled on a table saw like stated before, and the slot in the phenolic will be machined on a manual mill. Hopefully this works, I haven't tried it before. 
+
+### Recovery
+
+I changed from a chute cannon setup to a cable cutter setup. The main will be on a riser and will be exposed to the airflow the whole time and ziptied shut. When the cable cutter fires the ziptie is cut and the main unfurls. This is worse than chute cannon in many ways, but I am familiar with it and it makes more sense for my rocket configuration.
+  
+
