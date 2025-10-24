@@ -93,7 +93,7 @@ The motor geometry is the same, just was slightly eviler to become more manufact
 ### Nosecone
 ![01 - Nosecone.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--76cd9066fba1058ae783c5d7d8cad7f76cd804b7/01%20-%20Nosecone.png)
 
-The nosecone is kinda dead simple, just a lot of layers (6), and a compression mold. The mold will use Partall mold release wax on the female part, and a silicone mold release layer (condom, just trust me bro) on the male part, which I have had used before for similar nosecones in the past. 
+The nosecone is kinda dead simple, just a lot of layers (6), and compression molded. The mold will use Partall mold release wax on the female part, and a silicone mold release layer (condom, just trust me bro) on the male part, which I have had used before for similar nosecones in the past. 
 
 The ablative will be the trowelable ablative mentioned earlier, just at a different mix ratio than in the patent in order to make it more workable. 
 
