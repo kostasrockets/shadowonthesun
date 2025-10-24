@@ -77,10 +77,11 @@ The first change I made was creating fins with more of a 1:1 aspect ratio (more 
 
 After these changes, I actually cadded the rocket finally. I did it in pretty much one sitting, I was bored.
 
-## Rocket Info & Stuff idk
+## Vehicle Info 
 ![00 - Shadow on the Sun - Main.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--51e9645c18c79c79af009256e0582f07a7f050f2/00%20-%20Shadow%20on%20the%20Sun%20-%20Main.png)
 ![00 - Shadow on the Sun - Main(1).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAyNywicHVyIjoiYmxvYl9pZCJ9fQ==--832cef472e53d552c833972968f3090bfb2da73d/00%20-%20Shadow%20on%20the%20Sun%20-%20Main(1).png)
 
+The vehicle mass fraction in CAD is 53%, about 1% off of the sims. 
 
 ### Motor
 
