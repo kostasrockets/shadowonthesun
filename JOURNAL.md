@@ -8,7 +8,7 @@
 
 ## 10/20/2025 8 PM - Static Fire  
 
-Before I created this project on Hack Club, I already worked on this project quite a bit. I designed and built a 2" composite case based off of @tsbooska on TRF's Black Stallion design. ![586867-52866e784e52bdfc78d7e0ba7ca3a7c5.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzkyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--43c4a77de9916b7c7cbf338fccdf45cd0e2386ba/586867-52866e784e52bdfc78d7e0ba7ca3a7c5.png)
+Before I created this project on Hack Club, I designed and built a 2" composite case based off of @tsbooska on TRF's Black Stallion design. ![586867-52866e784e52bdfc78d7e0ba7ca3a7c5.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzkyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--43c4a77de9916b7c7cbf338fccdf45cd0e2386ba/586867-52866e784e52bdfc78d7e0ba7ca3a7c5.png)
 
 ^ Black Stallion
 
