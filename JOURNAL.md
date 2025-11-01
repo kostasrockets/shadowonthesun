@@ -117,3 +117,22 @@ The fins are 4mm carbon fiber with XX phenolic leading edges. They'll be beveled
 I changed from a chute cannon setup to a cable cutter setup. The main will be on a riser and will be exposed to the airflow the whole time and ziptied shut. When the cable cutter fires the ziptie is cut and the main unfurls. This is worse than chute cannon in many ways, but I am familiar with it and it makes more sense for my rocket configuration.
   
 
+## 10/31/2025 - Avionics & Prepared project for shipping :)  
+
+I added the batteries and O rings to the avionics bay. I may make the frustum longer in order to better spread out any bending load applied to the nosecone tip. Mach 4 is scary dawg.
+
+![02 - Avionics Bay(6)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzMzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--a65790b73ae5a852afd2cede9e2e6e6ba92f0ca4/02%20-%20Avionics%20Bay(6).png)
+
+I also made a wiring diagram for the avionics bay. 
+
+![SOTSAvionics](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzMzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--571e46227ca23b46b54ed6c99f3731bf9d9e6594/SOTSAvionics.png)
+
+The Blue Raven has a weird common ground for charges, which is frustrating for wiring, but with a soldering iron it should be no big deal at all. 
+
+On the cable cutter, I'm also attaching another charge which is designed to blow the rocket apart in case the first charge fails. I read about it on a rocketry forum and it is a nice last chance measure so that rocket doesn't go ballistic. 
+
+Something else I'm considering is G11 fins with no phenolic leading edges. I've heard people have pushed G11 much harder than it has any right to be pushed and it doesn't delaminate. It would be a nice way to save some money and time. 
+
+
+As for the github repo, I uploaded the CAD, the BOM, Wiring Diagram pictures, made the readme clearer, and made sure it met the requirements for shipping.  
+
