@@ -36,6 +36,26 @@ The rocket will use a drougeless dual deploy cable cutter setup, where the main 
 <img width="4347" height="2950" alt="yep! drawio" src="https://github.com/user-attachments/assets/b7acca9e-d208-47de-bdae-a3d0ad170e46" />
 
 
-Links & BOM
+## Links
 
 - [CAD](https://cad.onshape.com/documents/1bd81b77a3a17cb456f82160/w/97e9ab60a16197f8eb0e4abc/e/b023c5efac3a32166d460205)
+- [BOM](https://docs.google.com/spreadsheets/d/1arTK88kPIIjBrJaRMpfglK5CKIUE6MHMySPSQ8KVSww/edit?usp=sharing)
+
+### BOM
+
+| Item Name                                                            | Vendor       | Justification                | Link                                                                                                                       | Unit Price   |   Quantity | Subtotal   |
+|:---------------------------------------------------------------------|:-------------|:-----------------------------|:---------------------------------------------------------------------------------------------------------------------------|:-------------|-----------:|:-----------|
+| 54mm Nozzle, 0.455" Throat                                           | RCS          | Rocket Motor Nozzle          | https://www.rocketmotorparts.com/product/54mm-nozzle-0-455%22-throat                                                       | 36.5         |          1 | 36.5       |
+| 54mm Propellant X™ Propellant Grain                                  | RCS          | Rocket Motor Propellant      | https://www.rocketmotorparts.com/details/p1577809_18245096.aspx                                                            | 68.99        |          2 | 137.98     |
+| Buna-N O-ring, 1.875" O.D.                                           | RCS          | Avionics Bay/Aft End O Rings | https://www.rocketmotorparts.com/details/p1577809_19152682.aspx                                                            | 0.35         |          2 | 0.7        |
+| Buna-N O-ring, 2" O.D.                                               | RCS          | Forward Closure O Rings      | https://www.rocketmotorparts.com/details/p1577809_7801660.aspx                                                             | 0.65         |          5 | 3.25       |
+| Electrical-Insulating Garolite XX Tube                               | McMaster     | Rocket Motor Insulation      | https://www.mcmaster.com/8527K247/                                                                                         | 27.71        |          1 | 27.71      |
+| Multipurpose 6061 Aluminum 2" Diameter Disc                          | McMaster     | Forward Closure Stock        | https://www.mcmaster.com/1610T15-1610T116/                                                                                 | 15.97        |          1 | 15.97      |
+| Multipurpose 6061 Aluminum Round Tube 1/4" Wall Thickness, 2-1/4" OD | McMaster     | Forward Retention Ring Stock | https://www.mcmaster.com/9056K16-9056K165/                                                                                 | 24.19        |          1 | 24.19      |
+| Easy-to-Machine Garolite LE Sheet                                    | McMaster     | Fin Leading Edge Protection  | https://www.mcmaster.com/6842K63/                                                                                          | 19.59        |          1 | 19.59      |
+| Fin Order                                                            | CNCMadness   | Carbon Fiber/G11 Fins        | QUOTE                                                                                                                      | QUOTE        |          1 | QUOTE      |
+| EP420 Epoxy                                                          | InfinityBond | Fin Fillet Epoxy             | https://www.infinitybond.com/products/infinity-bond-ep-420-ns-black-non-sag-epoxy?variant=39376515104902                   | 18           |          2 | 36         |
+| Infinity Bond DMA Cartridge Gun for 50 mL Adhesive Cartridges        | InfinityBond | Fin FIllet Epoxy Aplicator   | https://www.infinitybond.com/products/infinity-bond-dma-cartridge-gun-for-50-ml-adhesive-cartridges?variant=39987625230470 | 24           |          1 | 24         |
+| nan                                                                  | nan          | nan                          | nan                                                                                                                        | nan          |        nan | nan        |
+| nan                                                                  | nan          | nan                          | nan                                                                                                                        | nan          |        nan | Total Cost |
+| nan                                                                  | nan          | nan                          | nan                                                                                                                        | nan          |        nan | 325.89     |
