@@ -5,7 +5,7 @@ Minmaxxing cost vs mach #.
 
 <img width="3296" height="2547" alt="00 - Shadow on the Sun - Main(2)" src="https://github.com/user-attachments/assets/c34b5564-d0d3-46f3-9347-4a64dce577e8" />
 
-After a succesful static fire of an experimental K motor, I'm planning to build a flight vehicle using the same motor architecture. This vehicle is based off my previous rockets, with various optimizations and features to survive the flight profile.
+After a succesful static fire of an experimental K motor, I'm planning to build a flight vehicle using the same motor architecture. This vehicle is based off my previous rockets, with various optimizations and features to survive the flight profile. My goal is to fly past Mach 4 and fulfill my new years resolution of doing Mach 2, 3 and 4 in a year.
 
 ### Aerostructures:
 
