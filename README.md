@@ -1,6 +1,7 @@
 # Shadow on the Sun
 
-Minmaxxing cost vs mach No. 
+Minmaxxing cost vs mach #.
+
 
 <img width="3296" height="2547" alt="00 - Shadow on the Sun - Main(2)" src="https://github.com/user-attachments/assets/c34b5564-d0d3-46f3-9347-4a64dce577e8" />
 
