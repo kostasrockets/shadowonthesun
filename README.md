@@ -71,4 +71,4 @@ IMPORTANT NOTE: The BOM cost is signifigantly lower than what the total cost wil
 | 6oz x 49 inch wide , Crowfoot Satin Weave                            | UsComposites                 | Casing Carbon Fiber (I need some for multiple attempts at casing layup) | [Link](https://www.uscomposites.com/shortroll.html)                                                      | 23.5       | 3         | 70.5      |
 | Carbon Fiber w/Glass Tracer                                          | —                            | —                                                                       | —                                                                                                        | —          | —         | —         |
 
-**Total Cost:** **$282.45**
+**Total Cost:** **$321.89**
